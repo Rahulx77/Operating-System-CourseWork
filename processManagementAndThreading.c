@@ -1,5 +1,4 @@
 /* =============================================================================
- * os_assignment.c
  *
  * Task 1: Process Management and Threading
  *
