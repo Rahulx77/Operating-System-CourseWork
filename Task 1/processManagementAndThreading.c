@@ -11,11 +11,6 @@
  * time and turnaround time calculation).
  * PART 4 - A two-thread, two-lock deadlock scenario, prevented by
  * enforcing a global lock-acquisition ordering.
- *
- * Compile:  gcc -Wall -Wextra -pthread -o os_assignment os_assignment.c
- * Run:      ./os_assignment
- *
- * Author: (student name)
  * ========================================================================== */
 
 #include <stdio.h>

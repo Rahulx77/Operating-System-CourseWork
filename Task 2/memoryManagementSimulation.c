@@ -6,9 +6,6 @@
  * and page tracking. It accepts a stream of 16-bit virtual memory addresses,
  * partitions them using a configurable Page Size, and extracts the page number
  * before passing them to the FIFO and LRU algorithms.
- *
- * Compile:  gcc -Wall -Wextra -o os_memory_sim os_memory_sim.c
- * Run:      ./os_memory_sim
  * ========================================================================== */
 
 #include <stdio.h>
